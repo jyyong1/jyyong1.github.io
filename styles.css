@@ -1,0 +1,18 @@
+body {
+	background-color: #334433;
+	color: white;
+	font-family: “Helvetica”, “Arial”, sans-serif;
+}
+p {
+	margin: 1em; /*what is em?*/
+	padding: 1em;
+	/*If you want a border around your paragraphs*/
+border-style: solid;
+border-width: 5px;
+text-align: justify;
+}
+img {
+	max-height: 50%;
+	max-width: 50%;
+	float: right;
+}
