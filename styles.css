@@ -4,11 +4,3 @@
 	font-family: “Helvetica”, “Arial”, sans-serif;
 }
 
-p {
-	margin: 1em; /*what is em?*/
-	padding: 1em;
-	/*If you want a border around your paragraphs*/
-border-style: solid;
-border-width: 5px;
-text-align: justify;
-}
